@@ -27,8 +27,7 @@ Todas las direcciones son privadas (RFC 1918) y no hay direcciones duplicadas ni
 .
 ├── README.md
 ├── redes2.pkt          (proyecto de Packet Tracer)
-├── imagenes/           (capturas usadas en este documento)
-└── web/                (HTML e imágenes de las tres páginas)
+└── imagenes/           (capturas usadas en este documento)
     ├── albacete.html
     ├── wagner.html
     ├── dilar.html
